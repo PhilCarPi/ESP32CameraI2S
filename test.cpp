@@ -3,5 +3,5 @@
 void main() {
 	cout << "I am alive!" << endl;
 
-	return 0;
+	return 1;
 }
